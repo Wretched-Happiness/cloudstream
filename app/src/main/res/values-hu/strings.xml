@@ -28,4 +28,12 @@
     <string name="all">Összes</string>
     <string name="tracks">Zeneszámok</string>
     <string name="home_next_random_img_des">Következő random</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="none">Semmi</string>
+    <string name="title">Cím</string>
+    <string name="loading">Betöltés…</string>
+    <string name="status">Állapot</string>
+    <string name="show_title">Forrás címe</string>
+    <string name="history">Előzmények</string>
 </resources>
